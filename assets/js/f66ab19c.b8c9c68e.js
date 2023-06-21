@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkmy_learning=self.webpackChunkmy_learning||[]).push([[5618],{9080:e=>{e.exports=JSON.parse('{"permalink":"/bg-repo/blog","page":1,"postsPerPage":10,"totalPages":1,"totalCount":4,"blogDescription":"Blog","blogTitle":"Blog"}')}}]);
